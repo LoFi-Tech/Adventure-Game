@@ -12,5 +12,8 @@ In this project, I had to make a simpler version of an old-fashioned text-based 
  -Write code that follows the standard Python style guide. <br>
  -Test code and produce an error-free program. <br> <br>
  <strong> How to play: </strong> <br>
- From your CTD, write: <br>
- 
+ From a CTD terminal, type either: <br>
+python3 adventure_game.py <br>
+./adventure_game.py <br>
+<strong> Requirements:</strong> <br>
+Python 3 or greater. <br>
