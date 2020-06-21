@@ -10,4 +10,7 @@ In this project, I had to make a simpler version of an old-fashioned text-based 
  -Use a conditional loop to handle invalid input. <br>
  -Refactor code by defining and calling functions. <br>
  -Write code that follows the standard Python style guide. <br>
- -Test code and produce an error-free program. 
+ -Test code and produce an error-free program. <br> <br>
+ <strong> How to play: </strong> <br>
+ From your CTD, write: <br>
+ 
