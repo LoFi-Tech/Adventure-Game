@@ -1,6 +1,6 @@
 
 <strong>Project Description:</strong> <br>
-In this project, I had to make a simpler version of an old-fashioned text-based adventure game, using Python. <br><br>
+In this project, I made a simpler version of an old-fashioned text-based adventure game, using Python. <br><br>
 <strong> Project goals: </strong> <br>
  -Output text to the console. <br>
  -Import modules and use functions from those modules. <br>
